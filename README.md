@@ -1,5 +1,5 @@
 # Raspberry-Pi-G1-Tank
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/0cBebnzPAQ1A0dtu3Tnl6YnLy0It6h6gjXe3y*UlvfM!/r/dDUBAAAAAAAA)
+![](https://github.com/YahboomTechnology/Raspberry-pi-G1-Tank/blob/master/Yahboom_PiTank.jpg)
 # Introduction
 Yahboom Raspberry Pi Tank Robot uses the latest Raspberry Pi 4B/3B+ development board as the core controller. The vehicle adopts blue aluminum chassis, high-quality track, high-power 370 motor, and metal coupling. When the motor drives the wheel of the car to rotate rapidly, it can achieve the function of climbing up to 60 degrees under the condition of sufficient friction. For this Raspberry Pi tank, real-time video transmission is indispensable. Here we use a camera that can manually adjust the focal length two degrees of freedom, and control the rotation of the camera head through the Android phone Bluetooth app. At the same time, the tank could achieve the transmission of the high-definition video stream through the 5G WIFI network of the Raspberry Pi 4B/3B+. We will also provide some code and corresponding information of some components as a reference. Both expansion board and frame we are providing the corresponding extended interface, users can expand and use it according to the information provided by us, So for the tank, educators, learners, and raspberry lovers will be the most suitable owners.
 # Features
@@ -21,8 +21,7 @@ Yahboom Raspberry Pi Tank Robot uses the latest Raspberry Pi 4B/3B+ development 
 
 [By on Yahboom website](https://category.yahboom.net/collections/rp-smart-robot/products/g1tank)
 
-# Download Method
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/eecKEGQ5YoiBW1BsCmkBfHxV9xwujzkCQY2pnVdQ3dU!/r/dL8AAAAAAAAA)
+
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 
