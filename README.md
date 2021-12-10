@@ -14,7 +14,12 @@ Yahboom Raspberry Pi Tank Robot uses the latest Raspberry Pi 4B development boar
 * The vast amount of data and sample program for reference.
 
 # Required Best Buy Links
+
+[By on Yahboom website](https://www.amazon.com/dp/B07KRVBGQM)
+
 [By on Yahboom website](https://category.yahboom.net/collections/rp-smart-robot/products/g1tank)
+
+[By on Aliexpress](https://www.aliexpress.com/item/1005003430151391.html)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
