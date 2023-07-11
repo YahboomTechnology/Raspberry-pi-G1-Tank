@@ -8,7 +8,7 @@ Yahboom Raspberry Pi Tank Robot uses the latest Raspberry Pi 4B development boar
 * The entire vehicle adopts 2mm blue thickened aluminum alloy frame, installation is simple and firm.
 * BST-4WD multi-functional expansion board, it is equipped with some interfaces of various sensors and communication modules, and it is compatible with four core controllers: Arduino UNO, 51 microcontroller, STM32, and Raspberry Pi.
 * It supports multiple functions: High angle climbing; Tracking; Ultrasonic obstacle avoidance; Overing the obstacle, etc.
-* It supports multiple AI functions: Face detection, color tracking, object/gesture/QR code recognition etc.
+* It supports multiple AI functions: Face detection, color tracking, object/QR code recognition etc.
 * Users can use C language programming and Python programming.
 * The car and Camera cloud platform can be controlled by Bluetooth App remote control by Android mobile; HD video real-time transmission can be realized by Raspberry Pi coming with WIFI.
 * The vast amount of data and sample program for reference.
